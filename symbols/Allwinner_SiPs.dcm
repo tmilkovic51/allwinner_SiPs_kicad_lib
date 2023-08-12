@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Allwinner_D1s
+D RISC-V CPU (XuanTie C906) with 64 MB DDR2 RAM in a single package (SiP)
+K allwinner, d1s
+F https://linux-sunxi.org/images/1/19/D1s_Datasheet_V1.0.pdf
+$ENDCMP
+#
+$CMP Allwinner_F1C200s
+D ARM926EJ-S CPU with 64 MB DDR RAM in a single package (SiP)
+K allwinner, f1c200s, f1c200
+F https://linux-sunxi.org/images/1/11/Allwinner_F1C200s_Datasheet_V1.0.pdf
+$ENDCMP
+#
+$CMP Allwinner_T113-S3
+D Dual-core ARM Cortex-A7 CPU with HiFi4 DSP and 128 MB DDR3 RAM in a single package (SiP)
+K allwinner, t113-s3, t113_s3, t113
+F https://linux-sunxi.org/images/7/73/T113-s3_datasheet_v1.6.pdf
+$ENDCMP
+#
+$CMP Allwinner_V3s
+D ARM Cortex-A7 CPU with 64 MB DDR2 RAM in a single package (SiP)
+K allwinner, v3s
+F https://linux-sunxi.org/images/2/23/Allwinner_V3s_Datasheet_V1.0.pdf
+$ENDCMP
+#
+#End Doc Library
