@@ -6,6 +6,12 @@ K allwinner, d1s
 F https://linux-sunxi.org/images/1/19/D1s_Datasheet_V1.0.pdf
 $ENDCMP
 #
+$CMP Allwinner_F1C100s
+D ARM926EJ-S CPU with 32 MB DDR RAM in a single package (SiP)
+K allwinner, f1c100s, f1c100
+F https://linux-sunxi.org/images/b/ba/F1C100s_Datasheet_V1.0.pdf
+$ENDCMP
+#
 $CMP Allwinner_F1C200s
 D ARM926EJ-S CPU with 64 MB DDR RAM in a single package (SiP)
 K allwinner, f1c200s, f1c200
